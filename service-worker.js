@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eisenhower-matrix-fullstack/precache-manifest.1aebbf27ac23ddc5f83cb1c3de3bebec.js"
+  "/eisenhower-matrix-fullstack/precache-manifest.f177fcc0b73facc04a25514408843cb8.js"
 );
 
 self.addEventListener('message', (event) => {
