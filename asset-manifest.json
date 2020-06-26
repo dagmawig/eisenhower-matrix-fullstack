@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eisenhower-matrix-fullstack/static/css/main.71bcc8a9.chunk.css",
-    "main.js": "/eisenhower-matrix-fullstack/static/js/main.c9e7283e.chunk.js",
-    "main.js.map": "/eisenhower-matrix-fullstack/static/js/main.c9e7283e.chunk.js.map",
+    "main.js": "/eisenhower-matrix-fullstack/static/js/main.ecfea4de.chunk.js",
+    "main.js.map": "/eisenhower-matrix-fullstack/static/js/main.ecfea4de.chunk.js.map",
     "runtime-main.js": "/eisenhower-matrix-fullstack/static/js/runtime-main.b7ee28fa.js",
     "runtime-main.js.map": "/eisenhower-matrix-fullstack/static/js/runtime-main.b7ee28fa.js.map",
     "static/js/2.db56d6f6.chunk.js": "/eisenhower-matrix-fullstack/static/js/2.db56d6f6.chunk.js",
     "static/js/2.db56d6f6.chunk.js.map": "/eisenhower-matrix-fullstack/static/js/2.db56d6f6.chunk.js.map",
     "index.html": "/eisenhower-matrix-fullstack/index.html",
-    "precache-manifest.eb5296cb41ebf503c46186276fcabc1c.js": "/eisenhower-matrix-fullstack/precache-manifest.eb5296cb41ebf503c46186276fcabc1c.js",
+    "precache-manifest.15d5e8c90198fa7d1c2b8c1554275ce9.js": "/eisenhower-matrix-fullstack/precache-manifest.15d5e8c90198fa7d1c2b8c1554275ce9.js",
     "service-worker.js": "/eisenhower-matrix-fullstack/service-worker.js",
     "static/css/main.71bcc8a9.chunk.css.map": "/eisenhower-matrix-fullstack/static/css/main.71bcc8a9.chunk.css.map",
     "static/js/2.db56d6f6.chunk.js.LICENSE.txt": "/eisenhower-matrix-fullstack/static/js/2.db56d6f6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b7ee28fa.js",
     "static/js/2.db56d6f6.chunk.js",
     "static/css/main.71bcc8a9.chunk.css",
-    "static/js/main.c9e7283e.chunk.js"
+    "static/js/main.ecfea4de.chunk.js"
   ]
 }

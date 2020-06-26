@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3f73bfbea86490e1fd04f86cdbb2e24",
+    "revision": "35c0b8cf842ca858fd731cf6c9589ff0",
     "url": "/eisenhower-matrix-fullstack/index.html"
   },
   {
-    "revision": "5e0566e57b2bb5d3b4fe",
+    "revision": "29e8fc946b034068acbd",
     "url": "/eisenhower-matrix-fullstack/static/css/main.71bcc8a9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eisenhower-matrix-fullstack/static/js/2.db56d6f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e0566e57b2bb5d3b4fe",
-    "url": "/eisenhower-matrix-fullstack/static/js/main.c9e7283e.chunk.js"
+    "revision": "29e8fc946b034068acbd",
+    "url": "/eisenhower-matrix-fullstack/static/js/main.ecfea4de.chunk.js"
   },
   {
     "revision": "292588f76749d67af0e3",
